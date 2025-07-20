@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactTypingEffect from 'react-typing-effect';
-import Tilt from 'react-parallax-tilt';
-import profileImage from '../../assets/profile2.png';
+import React from "react";
+import ReactTypingEffect from "react-typing-effect";
+import Tilt from "react-parallax-tilt";
+import profileImage from "../../assets/profile2.png";
 
 const About = () => {
   return (
@@ -40,12 +40,12 @@ const About = () => {
             Pune. I’m passionate about full-stack development and love building
             efficient, user-friendly web applications. I've completed
             internships in Web and Python Development and worked on projects
-            like an e-commerce site, portfolio website, and CSV data analyzer.
-            I'm skilled in Java, C++, Python, ReactJS, and MySQL. I’ve solved
-            250+ problems on LeetCode and earned 10+ badges, reflecting my
-            strong foundation in DSA and continuous learning. Currently, I'm
-            looking for opportunities to grow as a Full Stack Developer and
-            contribute to real-world projects.
+            like an portfolio website, CSV data analyzer, OS Scheduling
+            Algorithm Visulizer. I'm skilled in Java, C++, Python, ReactJS, and
+            MySQL. I’ve solved 300+ problems on LeetCode and earned 10+ badges,
+            reflecting my strong foundation in DSA and continuous learning.
+            Currently, I'm looking for opportunities to grow as a Full Stack
+            Developer and contribute to real-world projects.
           </p>
           {/* Resume Button */}
           <a
