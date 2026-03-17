@@ -26,7 +26,7 @@ import aissmsioit from "./assets/education_logo/aissmsioit.jpg";
 // Project Section Logo's
 import portfolio from "./assets/work_logo/portfolio.png";
 import csv_analyzer from "./assets/work_logo/csv_analyzer.png";
-import photo_studio from "./assets/work_logo/photo_studio.png";
+import CPU_Scheduling_Simulator from "./assets/work_logo/CPU_Scheduling_Simulator.png";
 import eccomerce from "./assets/work_logo/eccomerce.png";
 
 export const SkillsInfo = [
@@ -153,7 +153,7 @@ export const projects = [
     title: "OS Scheduler Visualizer",
     description:
       "Developed a web-based simulator using React (frontend) and Spring Boot(backend) to visualize CPU scheduling algorithms like FCFS, SJF, Priority, and Round Robin. Displays real-time Gantt chart representations with support for preemptive and non-preemptive logic.",
-    image: photo_studio,
+    image: CPU_Scheduling_Simulator,
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/Roshu-3158/OS-Scheduler-Visualizer",
     webapp: "#",
